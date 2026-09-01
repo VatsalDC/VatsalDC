@@ -53,11 +53,11 @@ I care about the details — from thoughtful UI/UX and responsive interactions t
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Recount** | A storytelling and reflection journal that transforms daily thoughts into meaningful narratives. | React · JavaScript · Tailwind CSS | [Live Demo](#) · [Repo](#) |
-| **Squeeze** | A privacy-first image compressor with precise control over quality, dimensions, and output size. | React · JavaScript · Canvas API | [Live Demo](#) · [Repo](#) |
-| **Pixel Playground** | An interactive canvas and creative UI sandbox built for experimenting with visual ideas. | React · JavaScript · Canvas API | [Live Demo](#) · [Repo](#) |
-| **Kanban Board** | A drag-and-drop task management tool with persistent state and a focused workflow. | React · JavaScript · Local Storage | [Live Demo](#) · [Repo](#) |
-| **Thaughtify** | A lightweight micro-thoughts and daily reflection tool designed for capturing ideas in the moment. | React · JavaScript · Tailwind CSS | [Live Demo](#) · [Repo](#) |
+| **Recount** | A storytelling and reflection journal that transforms daily thoughts into meaningful narratives. | React · JavaScript · Tailwind CSS | [Visit](https://recounted.vercel.app/) · [Repo](https://github.com/VatsalDC/Recount-Showcase#-recount--your-past-in-a-story) |
+| **Squeeze** | A privacy-first image compressor with precise control over quality, dimensions, and output size. | React · JavaScript · Canvas API | [Visit](https://squeezeit.netlify.app) · [Repo](https://github.com/VatsalDC/squeeze-showcase#squeeze--image-compressor) |
+| **Pixel Playground** | An interactive canvas and creative UI sandbox built for experimenting with visual ideas. | React · JavaScript · Canvas API | [Visit](https://pixelpg.netlify.app) · [Repo](https://github.com/VatsalDC/Pixel-Playground_Showcase#-pixel-playground) |
+| **Kanban Board** | A drag-and-drop task management tool with persistent state and a focused workflow. | React · JavaScript · Local Storage | [Visit](https://yourkanbanboard.netlify.app/) · [Repo](https://github.com/VatsalDC/kanbanBoard/tree/d31bc8c83558a0e8f16f52ca06dae558fa0d59c9/kanban-board) |
+| **Thaughtify** | A lightweight micro-thoughts and daily reflection tool designed for capturing ideas in the moment. | React · JavaScript · Tailwind CSS | [Visit](https://thaughtify.netlify.app/) · [Repo](https://github.com/VatsalDC/Thaughtify) |
 
 ---
 
