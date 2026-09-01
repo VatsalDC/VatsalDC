@@ -1,7 +1,7 @@
 # Vatsal Chevli
 
 <p align="center">
-  <img width="1983" height="793" alt="github-header" src="https://github.com/user-attachments/assets/378be3c6-8e1b-4d81-8c15-adcb1740a88c" />
+  <img width="1983" height="793" alt="github-header" src="https://github.com/VatsalDC/VatsalDC/blob/main/github-header.webp" />
 </p>
 
 <p align="center">
