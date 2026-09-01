@@ -53,7 +53,8 @@ I care about the details — from thoughtful UI/UX and responsive interactions t
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Recount** | A storytelling and reflection journal that transforms daily thoughts into meaningful narratives. | React · JavaScript · Tailwind CSS | [Visit](https://vatsalchevli.netlify.app) · [Repo](https://github.com/VatsalDC/Recount-Showcase) |
+| **Recount** | A storytelling and reflection journal that transforms daily thoughts into meaningful narratives. | React · JavaScript · Tailwind CSS | [Visit](https://recounted.vercel
+.app) · [Repo](https://github.com/VatsalDC/Recount-Showcase) |
 | **Squeeze** | A privacy-first image compressor with precise control over quality, dimensions, and output size. | React · JavaScript · Canvas API | [Visit](https://vatsalchevli.netlify.app) · [Repo](https://github.com/VatsalDC/squeeze-showcase) |
 | **Pixel Playground** | An interactive canvas and creative UI sandbox built for experimenting with visual ideas. | React · JavaScript · Canvas API | [Visit](https://vatsalchevli.netlify.app) · [Repo](https://github.com/VatsalDC/Pixel-Playground_Showcase) |
 | **Kanban Board** | A drag-and-drop task management tool with persistent state and a focused workflow. | React · JavaScript · Local Storage | [Visit](https://vatsalchevli.netlify.app) · [Repo](https://github.com/VatsalDC/kanbanBoard) |
